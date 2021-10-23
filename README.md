@@ -1,24 +1,24 @@
 <div align="center">
-<a href="https://bit.ly/3koZRGY"><img src="https://fontmeme.com/permalink/210921/b08d0741ca22abb41ef078b50bddff8a.png" alt="google-font" border="0"></a>
+<a href="https://bit.ly/3koZRGY"><img src="https://fontmeme.com/permalink/211023/c362c7584edf4344c1257494284eaf27.png" alt="google-font" border="0"></a>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/bXIs6fy.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="<a href="https://ibb.co/k0BS6R4"><img src="https://i.ibb.co/P4j6z7c/Daddy-Botinc.jpg" alt="Daddy-Botinc" border="0"></a>.jpeg" width="200" height="200"/>
 </p>
 
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=HI+welcome+to+Paathu+repo;Created+by+Fasil;This+is+a+normal+whatsapp+Bot+with+media+clips;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=HI+welcome+to+Daddybot+repo;Created+by+Akashinc;This+is+a+normal+whatsapp+Bot+with+media+clips;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
   <p align="center">
-<a href="#"><img title="Paathu" src="https://img.shields.io/badge/Paathu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Daddy" src="https://img.shields.io/badge/Daddy-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Fasil-vkn"><img title="Author" src="https://img.shields.io/badge/Author-Fasil-vkn/Paathu?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Fasil-vkn">Fasil-vkn</a> to make it public
+Project created by <a href="https://github.com/AkashLLC/DaddyBot</a> to make it public
     <br>
        | © |
         Reserved |
