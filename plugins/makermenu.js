@@ -1,9 +1,9 @@
-/* Codded by @Paathu BOT
-Telegram: t.me/PaathuBOT
-youtube https://youtube.com/c/ICHUTECH
+/* Codded by @Daddy BOT
+Telegram: t.me/DaddyBOT
+
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Whats bot - Paathu BOT
+Whats bot - Daddy BOT
 */
 
 const QueenSew = require('../events');
@@ -13,7 +13,7 @@ const axios = require('axios');
 const Config = require('../config');
 const need = "*type some word after command"
 
-if (Config.WORKTYPE == 'private') {
+if (Config.WORKTYPE == 'public') {
 
    QueenSew.addCommand({pattern: 'makermenu', fromMe: true}, (async (message, match) => {    
 
