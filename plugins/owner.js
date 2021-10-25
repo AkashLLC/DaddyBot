@@ -21,6 +21,8 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creator Akash*
 
+*owner Akash Inc 
+
 *owner number  wa.me/12028863660?text=Hi*
 
 
