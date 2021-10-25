@@ -25,7 +25,7 @@ const lol = "need some word\n🗡enthelum ezhuthu nenba"
 
 else if (Config.WORKTYPE == 'public') {
 
-    Asena.addCommand({ pattern: 'paathu ?(.*)', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
+    Asena.addCommand({ pattern: 'Daddy ?(.*)', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
 
         if (match[1] === '') return await message.sendMessage(lol);
 
