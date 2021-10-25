@@ -12,7 +12,7 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
     
     
    
-  r_text[0] = "https://i.imgur.com/oBLYqk7.jpeg";
+  r_text[0] = "<a href="https://ibb.co/k0BS6R4"><img src="https://i.ibb.co/P4j6z7c/Daddy-Botinc.jpg" alt="Daddy-Botinc" border="0"></a>jpeg";
     
     
     var i = Math.floor(1*Math.random())
@@ -21,7 +21,7 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creator Akash*
 
-*owner Akash Inc 
+
 
 *owner number  wa.me/12028863660?text=Hi*
 
