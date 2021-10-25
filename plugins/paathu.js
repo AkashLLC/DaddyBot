@@ -1,4 +1,4 @@
-    /* # Exclusively Fasil
+    /* # Exclusively Akash
     # @lasiya99X t.me/lasiya99X
 */
 
@@ -10,7 +10,7 @@ const Config = require('../config');
 const lol = "need some word\n🗡enthelum ezhuthu nenba"
 
 
-    if (Config.WORKTYPE == 'private') {
+    if (Config.WORKTYPE == 'public') {
 
     Asena.addCommand({ pattern: 'paathu ?(.*)', fromMe: true,dontAddCommandList: true}, (async (message, match) => {
 
@@ -18,7 +18,7 @@ const lol = "need some word\n🗡enthelum ezhuthu nenba"
 
         var ttinullimage = await axios.get(`https://docs-jojo.herokuapp.com/api/ttlogo?text1=${encodeURIComponent(match[1])}&text2=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by Paathu*' })
+        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by Daddy*' })
 
     }));
 }
@@ -31,7 +31,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var ttinullimage = await axios.get(`https://docs-jojo.herokuapp.com/api/ttlogo?text1=${encodeURIComponent(match[1])}&text2=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by Paathu*' })
+        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by Daddy*' })
 
     }));
 
