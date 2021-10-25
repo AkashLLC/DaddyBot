@@ -17,7 +17,7 @@ const Language = require('../language');
 
 const Lang = Language.getString('weather');
 
-if (Config.WORKTYPE == 'private') {
+if (Config.WORKTYPE == 'public') {
 
     Asena.addCommand({pattern: 'molu ?(.*)', fromMe: true, desc: Lang.BOT_DESC}, async (message, match) => {
 
@@ -29,7 +29,7 @@ if (Config.WORKTYPE == 'private') {
 
 		const json = JSON.parse(response.body);
 
-	  if (response.statusCode === 200) return await message.client.sendMessage(message.jid, ' \n\n*Paathu* 😘' + Lang.BOT +' ```' + json.messages[0].response + '```\n\n' , MessageType.text,{quoted: message.data});
+	  if (response.statusCode === 200) return await message.client.sendMessage(message.jid, ' \n\n*Daddy* 😘' + Lang.BOT +' ```' + json.messages[0].response + '```\n\n' , MessageType.text,{quoted: message.data});
 
 	} catch {
 
@@ -55,7 +55,7 @@ else if (Config.WORKTYPE == 'public') {
 
 		const json = JSON.parse(response.body);
 
-	  if (response.statusCode === 200) return await message.client.sendMessage(message.jid, ' \n\n*Paathu* 😘' + Lang.BOT +' ```' + json.messages[0].response + '```\n\n' , MessageType.text,{quoted: message.data});
+	  if (response.statusCode === 200) return await message.client.sendMessage(message.jid, ' \n\n*Daddy* 😘' + Lang.BOT +' ```' + json.messages[0].response + '```\n\n' , MessageType.text,{quoted: message.data});
 
 	} catch {
 
