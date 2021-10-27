@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 <a href="https://bit.ly/3koZRGY"><img src="https://fontmeme.com/permalink/211023/c362c7584edf4344c1257494284eaf27.png" alt="google-font" border="0"></a>
 <div align="center">
   <img border-radius: 15px src="<a href="https://ibb.co/k0BS6R4"><img src="https://i.ibb.co/P4j6z7c/Daddy-Botinc.jpg" alt="Daddy-Botinc" border="0"></a>.jpeg" width="200" height="200"/>
@@ -28,12 +28,12 @@ Project created by <a href="https://github.com/AkashLLC/DaddyBot</a> to make it 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Fasil-vkn/Paathu">
-    <img src="https://img.shields.io/github/repo-size/Fasil-vkn/Paathu?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/AkashLLC/DaddyBot">
+    <img src="https://img.shields.io/github/repo-size/AkashLLC/DaddyBot?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Fasil-vkn/followers"><img title="Followers" src="https://img.shields.io/github/followers/Fasil-vkn?color=blue&style=flat-square"></a>
-<a href="https://github.com/Fasil-vkn/Paathu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Fasil-vkn/Paathu?color=green&style=flat-square"></a>
-<a href="https://github.com/Fasil-vkn/Paathu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fasil-vkn/Paathu?color=blue&style=flat-square"></a>
+<a href="https://github.com/AkashLLC/DaddyBot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AkashLLC/DaddyBot?color=green&style=flat-square"></a>
+<a href="https://github.com/AkashLLC/Daddy/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AkashLLC/DaddyBot?color=blue&style=flat-square"></a>
 <a href="https://github.com/Fasil-vkn/Paathu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fasil-vkn/Paathu?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
@@ -64,8 +64,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Fasil-vkn/Paathu
-$ cd Paathu 
+$ git clone https://github.com/AkashLLC/DaddyBot
+$ cd DaddyBot 
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -74,8 +74,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Fasil-vkn/Paathu
-$ cd Paathu
+$ git clone https://github.com/AkashLLC/DaddyBot
+$ cd DaddyBot
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -95,10 +95,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Fasil-vkn](https://github.com/Fasil-vkn.png?size=100)](https://github.com/Fasil-vkn) 
+  [![AkashLLC](https://github.com/AkashLLC.png?size=100)](https://github.com/AkashLLC) 
 ----|----|----|----
 
-[Fasil-vkn](https://github.com/Fasil-vkn) 
+[AkashLLC](https://github.com/AkashLLC) 
 
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 
